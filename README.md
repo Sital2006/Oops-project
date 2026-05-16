@@ -17,3 +17,4 @@ A highly dynamic, four-way traffic intersection simulator written natively in **
 1. Ensure you have the `raylib` library installed via Homebrew:
    ```bash
    brew install raylib
+Project updated by istal2006
